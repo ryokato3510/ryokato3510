@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ryokato3510
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ryokato3510/ryokato3510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All my repositories are are for my own study.
+
+For example, I do a lot of Golang, React, CI/CD, and eventually IaC.
